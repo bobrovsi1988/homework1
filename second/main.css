@@ -1,0 +1,11 @@
+section{}
+#second{
+     display: flex;
+     justify-content: space-around;
+ }
+#second div{
+    width: 20%;
+    background-color: cadetblue;
+    height: 50px;
+    text-align: center;
+}
